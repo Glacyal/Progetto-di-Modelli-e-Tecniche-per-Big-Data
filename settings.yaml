@@ -1,0 +1,16 @@
+client_config_backend: settings
+client_config:
+  client_id: 936360058614-66eusd14ckohbotjvkminsmi7q25dham.apps.googleusercontent.com
+  client_secret: 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
+  auth_uri: https://accounts.google.com/o/oauth2/auth
+  token_uri: https://oauth2.googleapis.com/token
+  redirect_uri: http://localhost
+
+
+save_credentials: True
+save_credentials_backend: file
+save_credentials_file: credentials.json
+
+
+
+
